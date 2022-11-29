@@ -1,1 +1,0 @@
-# SujaiHiremath.github.io
