@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources
-permalink: /resources
+title: Teaching
+permalink: /Teaching
 ---
 teaching

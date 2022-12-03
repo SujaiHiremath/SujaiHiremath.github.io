@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sample-Posts
-permalink: /sample-posts
+title: Personal
+permalink: /Personal
 ---
 personal

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Documentation
-permalink: /documentation
+title: Research
+permalink: /Research
 ---
 
 research

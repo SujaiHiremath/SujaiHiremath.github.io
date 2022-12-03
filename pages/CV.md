@@ -1,7 +1,7 @@
 ---
 layout: page
-title: facts
-permalink: /facts
+title: CV
+permalink: /CV
 ---
 
 cv
