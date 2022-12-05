@@ -3,13 +3,6 @@ layout: page
 title: About
 permalink: /About
 ---
-<style type="text/css">
-.main-container {
-  max-width: 100% !important;
-  margin: auto;
-}
-</style>
-
 Hi!
 
 ![image info](/assets/img/SujaiHome.jpg)
