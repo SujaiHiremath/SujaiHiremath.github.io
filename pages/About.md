@@ -16,5 +16,5 @@ I’d like to thank the following people for their mentorship, advice, collabora
 * Professors: __Kostia Zuev__ (Statistics @Caltech), __Christopher Hitchcock__ (Philosophy @Caltech), __Bjarne Schuelke__ (Mathematics @Caltech), __Mason Porter__ (Mathematics @UCLA), __Adam Wierman__ (Computer Science @Caltech), __Franca Hoffmann__ (Mathematics @Caltech).
 * Graduate students: __Shunto Kobayashi__ (Economics @Caltech).
 * Undergrads: __Rohit Kantipudi__, __Cynthia Chen__, __Kavya Rajagopalan__, __Shwetha Kunnam__, __George Wythes__, __Rafael Santiago__. 
-* Industry: __Miguel Alcobendas__ (Yahoo!), 
-* Other: __Claire Johnson__ (Flute Teacher),
+* Industry: __Miguel Alcobendas__ (Yahoo!). 
+* Other: __Claire Johnson__ (Flute Teacher).
