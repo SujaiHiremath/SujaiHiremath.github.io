@@ -5,7 +5,7 @@ permalink: /About
 ---
 Hi!
 
-![image info](/assets/img/landscapemountains.jpg)
+![image info](/assets/img/SujaiHome.jpg)
 
 I'm a senior at Caltech with statistics, data science, and causal analysis in both industry and research settings.
  
