@@ -13,3 +13,8 @@ I TA for a few different math classes at Caltech and am a member of Lloyd House.
 
 I’d like to thank the following people for their mentorship, advice, collaboration, guidance, and influence - they have played a crucial role in shaping me into the mathematician and person I am today:
 
+* Professors: Kostia Zuev (Statistics @Caltech), Christopher Hitchcock (Philosophy @Caltech), Bjarne Schuelke (Mathematics @Caltech), Mason Porter (Mathematics @UCLA), Adam Wierman (Computer Science @Caltech), Franca Hoffmann (Mathematics @Caltech).
+* Graduate students: Shunto Kobayashi (Economics @Caltech).
+* Undergrads: Rohit Kantipudi, Cynthia Chen, Kavya Rajagopalan, Shwetha Kunnam, George Wythes, Rafael Santiago. 
+* Industry: Miguel Alcobendas (Yahoo!), 
+* Other: Claire Johnson (Flute Teacher),
