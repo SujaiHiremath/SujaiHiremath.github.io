@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: category
 title: "Favorite Philosophers"
 author: "Sujai"
 categories: pp
