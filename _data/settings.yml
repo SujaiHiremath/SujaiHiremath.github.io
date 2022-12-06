@@ -10,7 +10,7 @@ menu:
 - {name: 'About', url: 'About'}
 - {name: 'Research',       url: 'Research'}
 - {name: 'CV',      url: 'CV'}
-- {name: 'Personal',            folder: 'Personal'}
+- {name: 'Personal',            url: 'Personal'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
