@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /Research
 ---
-## <u>Current Project</u>
+## <u>Current Projects</u>
 #### Pasadena Unified School District School Lottery Data Analysis
 In Pasadena de facto socioeconomic and racial segregation has continued to this day through the public-private school divide. In fact, 30% of the children in Pasadena attend private school, about three times the national average - this leaves the public schools with low student enrollment and thus inadequate state funding. Our project seeks to identify how to change the PUSD school lottery system so that more families get their top choice school, and the distribution of children from different racial and socioeconomic classes is more evenly spread across the district. Here are some preliminary **[results](https://SujaiHiremath.github.io/assets/img/pasadenaresearch.pdf)**.
 ## <u>Current Papers I'm Reading/Think are Important</u>
