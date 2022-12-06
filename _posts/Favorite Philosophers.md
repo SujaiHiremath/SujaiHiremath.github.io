@@ -2,7 +2,7 @@
 layout: post
 title: "Favorite Philosophers"
 author: "Sujai"
-categories: Personal
+categories: pp
 ---
 Here is a ranking of my favorite philosophers:
 1. Pyrrho
