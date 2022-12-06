@@ -1,0 +1,11 @@
+---
+layout: page
+title: Idea Space
+---
+
+{% for post in site.categories.Personal %}
+  <a href="{{ site.github.url }}{{ post.url }}">
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+{% endfor %}
