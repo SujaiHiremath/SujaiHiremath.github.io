@@ -3,8 +3,6 @@ layout: page
 title: Idea Space
 permalink: /Idea Space
 ---
-# <u> Idea Space </u>
-
 1. [Introduction](#introduction)
 2. [Philosophy](#philosophy)
    1. [Top 10 Philosophers](#top-10-philosophers)
