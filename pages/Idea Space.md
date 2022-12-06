@@ -3,16 +3,16 @@ layout: page
 title: Idea Space
 permalink: /Idea Space
 ---
-## Idea Space
+# <u> Idea Space </u>
 
 1. [Introduction](#introduction)
 2. [Philosophy](#philosophy)
    1. [Top 10 Philosophers](#top-10-philosophers)
 
-## Introduction
+## <u> Introduction </u>
 I define the collection of all possible ideas a human being can have as "Idea Space". I currently dedicate my personal life to exploring as much of Idea Space as I can - this means reading, learning skills, seeking new experiences and regularly changing as a human being. I aim to share my coherent findings here. 
 
-## Philosophy
+## <u> Philosophy </u>
 Philosophy is my favorite sub-section of Idea Space. Its hard to define rigidly, but I think philosophy generally attempts to answer Who?, What?, When?, Where?, Why? in a variety of symbolic and natural human language. 
 
 In particular, I am highly interested in the sub-branches 'ethics' and 'epistemology', the study of what we ought to do, and what we ought to believe. This focus will be reflected in the content I upload.
