@@ -12,7 +12,7 @@ permalink: /Idea Space
 5. [Friendships](#friendships)
 
 ## <u> Introduction </u>
-I define the collection of all possible ideas a human being can have as "Idea Space". I currently dedicate my personal life to exploring as much of Idea Space as I can - this means reading, learning skills, seeking new experiences and regularly changing as a human being. I aim to share my coherent findings here. 
+I define the collection of all possible ideas a human being can have as "Idea Space". I currently spend most of my personal life to exploring as much of Idea Space as I can - this means reading, learning skills, seeking new experiences and regularly changing my personality and values. I aim to share my coherent findings here, with each heading/subheading representing a different sector of Idea Space in my mind.
 
 ## <u> Philosophy </u>
 Philosophy is my favorite sub-section of Idea Space. Its hard to define rigidly, but I think philosophy generally attempts to answer Who?, What?, When?, Where?, Why? in a variety of symbolic and natural human languages. 
@@ -54,6 +54,10 @@ This series very greatly emotionally impacted me. I would like to leave you with
 *“If I pretend I did not do those things, it means I cant have grown to be someone else. It cannot be a journey if it does not have a beginning. I will take responsibility for what I have done. If I must fall, I will rise each time to be a better man. You cannot have my pain. This means that you cannot have my shame, my pain, my regret, my anger for having done the wrong thing. I will not blame you.”
 
 *"Sometimes a hypocrite is nothing more than a man in the process of changing."
+
+*"The most important step a man can take. It’s not the first one, is it? It’s the next one, always the next one."
+
+*"A journey will have pain and failure. It is not only the steps forward that we must accept. It is the stumbles. The trials. The knowledge that we will fail. That we will hurt those around us. But if we stop, if we accept the person we are when we fall, the journey ends. That failure becomes our destination. To love the journey is to accept no such end. I have found, through painful experience, that the most important step a person can take is always the next one."
 
 ## Friendships
 
