@@ -111,5 +111,3 @@ Baptiste was a lawyer in Paris who specialized in the defense of the poor and di
 
 
 
-## Friendships
-
