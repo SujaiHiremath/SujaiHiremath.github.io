@@ -6,10 +6,13 @@ permalink: /Idea Space
 1. [Introduction](#introduction)
 2. [Philosophy](#philosophy)
    1. [Top 10 Philosophers](#top-10-philosophers)
-3. [Running](#running)
-4. [Books](#books)
+3. [Mathematics](#mathematics)
+   1. [How to Learn Mathematics](#how-to-learn-mathematics)
+4. [Running](#running)
+5. [Books](#books)
    1. [The Stormight Archives](#the-stormlight-archives)
-5. [Friendships](#friendships)
+   2. [The Fall](#the-fall)
+
 
 ## <u> Introduction </u>
 I define the collection of all possible ideas a human being can have as "Idea Space". I currently spend most of my personal life exploring as much of Idea Space as I can - this means reading, learning skills, seeking new experiences and regularly changing my personality and values. I aim to share my coherent findings here, with each heading/subheading representing a different sector of Idea Space in my mind.
@@ -33,6 +36,18 @@ Here is a ranking of my top 10 favorite philosophers:
 10. Plato.
 
 This ranking is constructed on the basis of 3 factors, in this order: 1) how integral the philosopher has been to the trajectory of my thinking, 2) how closely my current personal philosophy aligns with them and 3) how cool I find the philosopher.
+
+## <u> Mathematics </u>
+
+### How to Learn Mathematics
+
+The most important part of writing a solution to a math problem is selecting the correct initial direction - if you start heading off in the wrong direction initially, you’re basically screwed. This doesn’t mean there aren’t multiple correct directions - it just means there are infinitely many incorrect directions.
+Studying how to solve mathematics problems in a subfield is roughly a 3 step process -
+* Memorize the terminology of the subfield - the definitions and properties of mathematical objections, the relevant theorems and axioms, etc. It is incredibly essential to be intimately familiar with the objects of study; however, focusing on this will lead to a binary jump in improvement. It is a prerequisite to being able to comprehend the words on the page, but the gains in this area do not compound. For this reason, it is the least important step.
+* Build up a library of initial starting directions that are common in the subfield by analyzing various solutions to practice problems - identifying which problems are amenable to contradiction, which ones involve recasting given objects into slightly different formats to solve, generating new mathematical objects that are related to the objects of interest, etc. There will be initial directions that are general to math as a whole (recasting a statement into a contrapositive that's easier to prove) but also initial directions that are particular to subfields (say, rewriting random variables into integral form for easier manipulation). This is perhaps the most important step in the process because for every new starting direction you can identify, entirely new classes become solvable. 
+* Practice solving questions by taking items from the list of general “start directions”, and applying them to the specifics of a problem - the starting directions you identify in step (b) are general, but are implemented slightly differently in each subfield of math, and even each individual problem. For example, in analysis “generating a new mathematical object” in the analysis might look like constructing some kind of related but unique function to aid in calculations, but in group theory, it might look like constructing a new group that's somehow relevant to the problem (say, S_n). This step in second in importance, because it maximizes performance in a subfield of math, so its better than (a) but worse than (b) in terms of gaining overall competence.
+Math problems typically have 2 different components - the “trick” and the “calculation.” The trick is the component of the problem that is typically an idiosyncratic implementation of a general starting rule - it's that initial starting direction that you must find in order to have any hope of solving the problem. It's the part of the solution where someone goes “wow I can’t believe someone thought of this.” The calculation component of the problem where you iron out the details of the general approach you’ve taken with the specifics of the problem at hand - this involves ironing out edge cases, selecting the right constants to make mathematical equations work out, etc. The trick is typically the harder part of the problem, although calculation can be incredibly tedious and difficult to parse correctly in larger problems. When learning how to solve math problems, it's typically more useful to focus on getting the trick, and less on the calculations; the latter is easier to pick up later than the former.
+Picking the difficulty of math problems is similar to picking which weight to use on the bench at the gym - too light of a weight and you don’t get much stimulus, too heavy of a weight and you will never get any stimulus. It's essential to interact with problems that are somewhat curated to be near your level in terms of difficulty. Specifically, it's incredibly important that the calculation difficulty of a problem is not too high - this distracts from your ability to learn the trick, which is the more generalizable skill.
 
 ## <u> Running </u>
 Who
@@ -81,6 +96,17 @@ This series very greatly emotionally impacted me. I would like to leave you with
 *"The most important step a man can take. It’s not the first one, is it? It’s the next one, always the next one."
 
 *"A journey will have pain and failure. It is not only the steps forward that we must accept. It is the stumbles. The trials. The knowledge that we will fail. That we will hurt those around us. But if we stop, if we accept the person we are when we fall, the journey ends. That failure becomes our destination. To love the journey is to accept no such end. I have found, through painful experience, that the most important step a person can take is always the next one."
+
+### The Fall
+This book hit very close to home - I'd like to leave you with the start of a few thoughts I had about how I relate to the main character, John-Baptiste Clamence.
+
+I intend to tell the story of how I see myself as a kindred spirit to Jean-Baptiste Clamence, the main character of ‘The Fall’, one of, as Sartre puts it, “the most beautiful and the least understood” of Camus’s books.
+
+Baptiste was a lawyer in Paris who specialized in the defense of the poor and disenfranchised. He conceived of himself as living for others, for achieving much for virtue: in essence, he thought he sought and achieved the good. I feel as if I understand this deeply - I am trying, trying unimaginably hard to realize my potential, to reach higher, to become a god. Sometimes I feel as if I am succeeding, that I am indeed good. Sometimes I feel as if I am above the world, floating in the clouds of justice and serenity - sometimes it feels as if I am the only one who cares about doing what is truly right, what is truly moral, what is truly effective, and most importantly, what is truly justified. We are both mistaken.
+
+Late one night when crossing the Pont Royal, Baptiste comes across a woman dressed in black leaning over the edge of the bridge. He hesitates, thinking the sight strange, but he continues on his way. A few moments later he hears the distinct sound of a body hitting the water, and screaming afterward. Baptiste freezes, deducing immediately what had happened, but does not move, does not even turn. I understand intensely this feeling: to witness injustice, a tragedy, a travesty, an evil, a cry for help, and to respond with nothing. To say nothing, to do nothing, to so unmistakably fail to live up to your ideals, and expectations; to fail so shamefully, with no silver lining in sight, no copium within reach. “I wanted to run and yet didn't move an inch. I was trembling, I believe from cold and shock. I told myself that I had to be quick, and felt an irresistible weakness steal over. I have forgotten what I thought then. Too late, too far.. or something of the sort. I was still listening as I stood motionless. Then, slowly, in the rain, I went away. I told no one.”
+
+
 
 ## Friendships
 
