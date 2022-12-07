@@ -100,7 +100,7 @@ This series very greatly emotionally impacted me. I would like to leave you with
 ### The Fall
 This book hit very close to home - I'd like to leave you with the start of a few thoughts I had about how I relate to the main character, John-Baptiste Clamence.
 
-I intend to tell the story of how I see myself as a kindred spirit to Jean-Baptiste Clamence, the main character of ‘The Fall’, one of, as Sartre puts it, “the most beautiful and the least understood” of Camus’s books.
+I intend to describe how I see myself as a kindred spirit to Jean-Baptiste Clamence, the main character of ‘The Fall’, one of, as Sartre puts it, “the most beautiful and the least understood” of Camus’s books.
 
 Baptiste was a lawyer in Paris who specialized in the defense of the poor and disenfranchised. He conceived of himself as living for others, for achieving much for virtue: in essence, he thought he sought and achieved the good. I feel as if I understand this deeply - I am trying, trying unimaginably hard to realize my potential, to reach higher, to become a god. Sometimes I feel as if I am succeeding, that I am indeed good. Sometimes I feel as if I am above the world, floating in the clouds of justice and serenity - sometimes it feels as if I am the only one who cares about doing what is truly right, what is truly moral, what is truly effective, and most importantly, what is truly justified. We are both mistaken.
 
